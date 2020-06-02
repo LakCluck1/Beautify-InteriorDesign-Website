@@ -1,0 +1,45 @@
+.pink {
+    color: #ce3261;
+}
+
+.gray a, h2 {
+    color:  gray;
+}
+
+.cursive {
+    font-family: 'Leckerli One', cursive;
+}
+
+.mclaren {
+    font-family: 'McLaren', cursive;
+}
+
+.lora {
+    font-family: 'Lora', serif;
+}
+
+.large {
+    font-size: large;
+}
+
+.medium {
+    font-size: medium;
+}
+
+h2 a:hover {
+    color: inherit;
+    text-decoration: underline #ce3261;
+}
+
+.top-right {
+    position: absolute;
+    top: 32%;
+    right: 8%;
+    background-color: white;
+}
+
+header {
+    background-color: whitesmoke;
+    height: auto;
+    border-bottom: 3px solid #ce3261;
+}
